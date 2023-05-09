@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](github-readme-stats-nine-kohl-22.vercel.app/api?username=lazaro9318)](lazaro)
+[![Anurag's GitHub stats](https://github-readme-stats-nine-kohl-22.vercel.app/api?username=lazaro9318)](lazaro)
 
 <!--
 **lazaro9318/lazaro9318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
