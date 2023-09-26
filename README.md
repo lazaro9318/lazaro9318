@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lazaro</h1>
-<h3 align="center">A passionate fullstack developer from Mexico. My current location is East Germany</h3>
+<h3 align="center">A passionate fullstack developer from Mexico</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazaro9318" alt="lazaro9318" /></a> </p>
 
